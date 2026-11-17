@@ -1,0 +1,4961 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89]
+   /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >>
+   /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 17628 >>
+stream
+0.902 0.000 0.494 rg
+40.00 812.00 515.00 3.50 re
+f
+BT
+/F2 8 Tf
+0.902 0.000 0.494 rg
+40.00 798.00 Td
+(RAJASTHAN ROYALS  |  SUPERR SELECTOR SEASON 2) Tj
+ET
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+442.68 798.00 Td
+(ROUND 1 METHODOLOGY REPORT) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 792.00 m
+555.00 792.00 l
+S
+0.75 w
+0.886 0.910 0.941 RG
+40.00 35.00 m
+555.00 35.00 l
+S
+BT
+/F1 7 Tf
+0.392 0.455 0.545 rg
+40.00 24.00 Td
+(Rajasthan Royals SupeRR Selector Season 2 - Clutch Performance Analytics) Tj
+ET
+BT
+/F2 7.5 Tf
+0.043 0.122 0.255 rg
+510.45 24.00 Td
+(Page 1 of 4) Tj
+ET
+BT
+/F2 17 Tf
+0.043 0.122 0.255 rg
+40.00 768.00 Td
+(Identify the Most Reliable Players Under Pressure) Tj
+ET
+BT
+/F1 9.5 Tf
+0.392 0.455 0.545 rg
+40.00 751.00 Td
+(A Context-Normalized Clutch Rating System for T20 Cricket \(2022-2026\)) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 705.00 122.00 36.00 re
+B
+0.043 0.122 0.255 rg
+40.00 705.00 3.50 36.00 re
+f
+BT
+/F2 13 Tf
+0.043 0.122 0.255 rg
+49.00 725.00 Td
+(883) Tj
+ET
+BT
+/F2 6.5 Tf
+0.392 0.455 0.545 rg
+49.00 712.00 Td
+(Matches Analyzed) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+171.00 705.00 122.00 36.00 re
+B
+0.902 0.000 0.494 rg
+171.00 705.00 3.50 36.00 re
+f
+BT
+/F2 13 Tf
+0.902 0.000 0.494 rg
+180.00 725.00 Td
+(51,211) Tj
+ET
+BT
+/F2 6.5 Tf
+0.392 0.455 0.545 rg
+180.00 712.00 Td
+(HP Balls \(25.5%\)) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+302.00 705.00 122.00 36.00 re
+B
+0.043 0.122 0.255 rg
+302.00 705.00 3.50 36.00 re
+f
+BT
+/F2 13 Tf
+0.043 0.122 0.255 rg
+311.00 725.00 Td
+(371) Tj
+ET
+BT
+/F2 6.5 Tf
+0.392 0.455 0.545 rg
+311.00 712.00 Td
+(IPL Matches \(5 Yrs\)) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+433.00 705.00 122.00 36.00 re
+B
+0.902 0.000 0.494 rg
+433.00 705.00 3.50 36.00 re
+f
+BT
+/F2 13 Tf
+0.902 0.000 0.494 rg
+442.00 725.00 Td
+(18) Tj
+ET
+BT
+/F2 6.5 Tf
+0.392 0.455 0.545 rg
+442.00 712.00 Td
+(Context Matrix Cells) Tj
+ET
+0.75 w
+0.965 0.753 0.835 RG
+0.996 0.945 0.965 rg
+40.00 630.00 515.00 65.00 re
+B
+0.902 0.000 0.494 rg
+40.00 630.00 4.00 65.00 re
+f
+BT
+/F2 8.5 Tf
+0.902 0.000 0.494 rg
+50.00 681.00 Td
+(EXECUTIVE SUMMARY & PROBLEM STATEMENT) Tj
+ET
+BT
+/F1 7.6 Tf
+0.059 0.090 0.165 rg
+50.00 668.00 Td
+(Traditional T20 metrics like raw strike rate or economy hide crucial context: a batter scoring 140 SR in relaxed middle overs) Tj
+ET
+BT
+/F1 7.6 Tf
+0.059 0.090 0.165 rg
+50.00 657.00 Td
+(does not reveal who can chase 36 off 12 balls or defend 10 in the final over. In this report, we construct an end-to-end,) Tj
+ET
+BT
+/F1 7.6 Tf
+0.059 0.090 0.165 rg
+50.00 646.00 Td
+(domain-grounded Pressure Reliability Framework across 883 matches. Deliveries are evaluated with a continuous Pressure Score \(0-1\),) Tj
+ET
+BT
+/F1 7.6 Tf
+0.059 0.090 0.165 rg
+50.00 635.00 Td
+(benchmarked against an 18-cell context grid, and regularized via Empirical Bayes shrinkage to rank clutch reliability.) Tj
+ET
+BT
+/F2 9.5 Tf
+0.043 0.122 0.255 rg
+40.00 608.00 Td
+(OFFICIAL TOP 10 PLAYERS UNDER PRESSURE \(UNSTOP DROPDOWN SUBMISSION\)) Tj
+ET
+1.50 w
+0.902 0.000 0.494 RG
+40.00 602.00 m
+555.00 602.00 l
+S
+0.902 0.000 0.494 rg
+40.00 574.00 252.00 14.00 re
+f
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+46.00 577.50 Td
+(TOP 10 BATTERS UNDER PRESSURE) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+245.50 577.50 Td
+(BPI Rating) Tj
+ET
+0.043 0.122 0.255 rg
+40.00 562.00 252.00 12.00 re
+f
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+44.00 565.00 Td
+(Rk) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+60.00 565.00 Td
+(Player Name) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+145.64 565.00 Td
+(HP SR) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+176.30 565.00 Td
+(Diff SR) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+219.97 565.00 Td
+(HP Avg) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+274.98 565.00 Td
+(BPI) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 549.00 252.00 13.00 re
+B
+0.902 0.000 0.494 rg
+43.00 551.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 553.20 Td
+(1) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+58.00 553.20 Td
+(Suryakumar Yadav) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 553.20 Td
+(211.8) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 553.20 Td
+(+58.4) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 553.20 Td
+(33.7) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+266.56 553.20 Td
+(100.0) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 536.00 252.00 13.00 re
+B
+0.902 0.000 0.494 rg
+43.00 538.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 540.20 Td
+(2) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+58.00 540.20 Td
+(Tristan Stubbs) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 540.20 Td
+(174.2) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 540.20 Td
+(+55.2) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 540.20 Td
+(37.4) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 540.20 Td
+(97.5) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 523.00 252.00 13.00 re
+B
+0.902 0.000 0.494 rg
+43.00 525.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 527.20 Td
+(3) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+58.00 527.20 Td
+(Rinku Singh) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 527.20 Td
+(162.9) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 527.20 Td
+(+38.9) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 527.20 Td
+(36.4) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 527.20 Td
+(95.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 510.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+43.00 512.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 514.20 Td
+(4) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+58.00 514.20 Td
+(Namboori Tilak Varma) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 514.20 Td
+(162.7) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 514.20 Td
+(+35.2) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 514.20 Td
+(34.8) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 514.20 Td
+(93.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 497.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+43.00 499.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 501.20 Td
+(5) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+58.00 501.20 Td
+(Rishabh Pant) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 501.20 Td
+(181.0) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 501.20 Td
+(+57.5) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 501.20 Td
+(39.4) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 501.20 Td
+(91.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 484.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+43.00 486.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 488.20 Td
+(6) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+58.00 488.20 Td
+(Tim David) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 488.20 Td
+(173.8) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 488.20 Td
+(+10.9) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 488.20 Td
+(35.8) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 488.20 Td
+(89.4) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 471.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+43.00 473.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 475.20 Td
+(7) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+58.00 475.20 Td
+(Heinrich Klaasen) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 475.20 Td
+(174.3) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 475.20 Td
+(+22.5) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 475.20 Td
+(33.4) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 475.20 Td
+(84.9) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 458.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+43.00 460.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 462.20 Td
+(8) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+58.00 462.20 Td
+(Naman Dhir) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 462.20 Td
+(197.3) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 462.20 Td
+(+51.7) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 462.20 Td
+(36.3) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 462.20 Td
+(84.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 445.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+43.00 447.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+46.88 449.20 Td
+(9) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+58.00 449.20 Td
+(Rovman Powell) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 449.20 Td
+(159.6) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 449.20 Td
+(+35.5) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 449.20 Td
+(29.9) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 449.20 Td
+(84.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 432.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+43.00 434.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+45.26 436.20 Td
+(10) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+58.00 436.20 Td
+(David Miller) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+146.85 436.20 Td
+(167.7) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+183.64 436.20 Td
+(+41.2) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+228.28 436.20 Td
+(29.7) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+270.45 436.20 Td
+(80.9) Tj
+ET
+0.043 0.122 0.255 rg
+303.00 574.00 252.00 14.00 re
+f
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+309.00 577.50 Td
+(TOP 10 BOWLERS UNDER PRESSURE) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+504.45 577.50 Td
+(BWPI Rating) Tj
+ET
+0.043 0.122 0.255 rg
+303.00 562.00 252.00 12.00 re
+f
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+307.00 565.00 Td
+(Rk) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+323.00 565.00 Td
+(Player Name) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+401.30 565.00 Td
+(HP Econ) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+433.95 565.00 Td
+(Diff Econ) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+482.97 565.00 Td
+(HP Wkt) Tj
+ET
+BT
+/F2 6.8 Tf
+1.000 1.000 1.000 rg
+534.31 565.00 Td
+(BWPI) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+303.00 549.00 252.00 13.00 re
+B
+0.902 0.000 0.494 rg
+306.00 551.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 553.20 Td
+(1) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+321.00 553.20 Td
+(Kuldeep Yadav) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 553.20 Td
+(6.79) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 553.20 Td
+(+1.40) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 553.20 Td
+(46) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+529.56 553.20 Td
+(100.0) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+303.00 536.00 252.00 13.00 re
+B
+0.902 0.000 0.494 rg
+306.00 538.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 540.20 Td
+(2) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+321.00 540.20 Td
+(Matheesha Pathirana) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 540.20 Td
+(7.75) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 540.20 Td
+(+0.06) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 540.20 Td
+(49) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 540.20 Td
+(91.0) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+303.00 523.00 252.00 13.00 re
+B
+0.902 0.000 0.494 rg
+306.00 525.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 527.20 Td
+(3) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+321.00 527.20 Td
+(Sunil Narine) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 527.20 Td
+(5.71) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 527.20 Td
+(+1.39) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 527.20 Td
+(25) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 527.20 Td
+(84.6) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+303.00 510.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+306.00 512.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 514.20 Td
+(4) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+321.00 514.20 Td
+(Noor Ahmad) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 514.20 Td
+(7.02) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 514.20 Td
+(+0.75) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 514.20 Td
+(31) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 514.20 Td
+(83.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+303.00 497.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+306.00 499.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 501.20 Td
+(5) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+321.00 501.20 Td
+(Abrar Ahmed) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 501.20 Td
+(5.41) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 501.20 Td
+(+1.67) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 501.20 Td
+(17) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 501.20 Td
+(78.7) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+303.00 484.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+306.00 486.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 488.20 Td
+(6) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+321.00 488.20 Td
+(Wanindu Hasaranga) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 488.20 Td
+(7.77) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 488.20 Td
+(+0.12) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 488.20 Td
+(41) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 488.20 Td
+(77.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+303.00 471.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+306.00 473.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 475.20 Td
+(7) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+321.00 475.20 Td
+(Jamie Overton) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 475.20 Td
+(7.86) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 475.20 Td
+(+0.71) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 475.20 Td
+(21) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 475.20 Td
+(72.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+303.00 458.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+306.00 460.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 462.20 Td
+(8) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+321.00 462.20 Td
+(Shadab Khan) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 462.20 Td
+(5.63) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 462.20 Td
+(+2.63) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 462.20 Td
+(13) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 462.20 Td
+(72.7) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+303.00 445.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+306.00 447.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+309.88 449.20 Td
+(9) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+321.00 449.20 Td
+(Shaheen Afridi) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 449.20 Td
+(7.19) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+448.64 449.20 Td
+(+0.59) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 449.20 Td
+(24) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 449.20 Td
+(72.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+303.00 432.00 252.00 13.00 re
+B
+0.043 0.122 0.255 rg
+306.00 434.00 11.00 9.00 re
+f
+BT
+/F2 6 Tf
+1.000 1.000 1.000 rg
+308.26 436.20 Td
+(10) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+321.00 436.20 Td
+(Sufiyan Muqeem) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+413.28 436.20 Td
+(5.92) Tj
+ET
+BT
+/F2 6.8 Tf
+0.863 0.149 0.149 rg
+448.64 436.20 Td
+(+0.00) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+498.14 436.20 Td
+(14) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+533.45 436.20 Td
+(71.1) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 405.00 515.00 115.00 re
+B
+BT
+/F2 7.5 Tf
+0.043 0.122 0.255 rg
+50.00 507.00 Td
+(FIGURE 1: BATTER STRIKE RATE ELEVATION UNDER PRESSURE \(HP SR vs BASELINE SR\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+398.39 507.00 Td
+(Grey: Baseline SR  |  Pink: High-Pressure SR) Tj
+ET
+1.00 w
+0.886 0.910 0.941 RG
+125.00 417.00 m
+125.00 501.00 l
+S
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+86.68 492.00 Td
+(Suryakumar) Tj
+ET
+0.700 0.740 0.800 rg
+125.00 494.50 238.62 3.50 re
+f
+0.902 0.000 0.494 rg
+125.00 490.00 329.44 4.00 re
+f
+BT
+/F2 6.2 Tf
+0.902 0.000 0.494 rg
+459.44 491.00 Td
+(211.8 \(+58.4\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+100.01 480.00 Td
+(Stubbs) Tj
+ET
+0.700 0.740 0.800 rg
+125.00 482.50 185.16 3.50 re
+f
+0.902 0.000 0.494 rg
+125.00 478.00 271.06 4.00 re
+f
+BT
+/F2 6.2 Tf
+0.902 0.000 0.494 rg
+401.06 479.00 Td
+(174.2 \(+55.2\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+103.34 468.00 Td
+(Rinku) Tj
+ET
+0.700 0.740 0.800 rg
+125.00 470.50 192.86 3.50 re
+f
+0.902 0.000 0.494 rg
+125.00 466.00 253.35 4.00 re
+f
+BT
+/F2 6.2 Tf
+0.902 0.000 0.494 rg
+383.35 467.00 Td
+(162.9 \(+38.9\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+83.35 456.00 Td
+(Tilak Varma) Tj
+ET
+0.700 0.740 0.800 rg
+125.00 458.50 198.38 3.50 re
+f
+0.902 0.000 0.494 rg
+125.00 454.00 253.12 4.00 re
+f
+BT
+/F2 6.2 Tf
+0.902 0.000 0.494 rg
+383.12 455.00 Td
+(162.7 \(+35.2\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+106.67 444.00 Td
+(Pant) Tj
+ET
+0.700 0.740 0.800 rg
+125.00 446.50 192.00 3.50 re
+f
+0.902 0.000 0.494 rg
+125.00 442.00 281.52 4.00 re
+f
+BT
+/F2 6.2 Tf
+0.902 0.000 0.494 rg
+411.52 443.00 Td
+(181.0 \(+57.5\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+90.01 432.00 Td
+(Tim David) Tj
+ET
+0.700 0.740 0.800 rg
+125.00 434.50 253.37 3.50 re
+f
+0.902 0.000 0.494 rg
+125.00 430.00 270.34 4.00 re
+f
+BT
+/F2 6.2 Tf
+0.902 0.000 0.494 rg
+400.34 431.00 Td
+(173.8 \(+10.9\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+96.68 420.00 Td
+(Klaasen) Tj
+ET
+0.700 0.740 0.800 rg
+125.00 422.50 236.16 3.50 re
+f
+0.902 0.000 0.494 rg
+125.00 418.00 271.09 4.00 re
+f
+BT
+/F2 6.2 Tf
+0.902 0.000 0.494 rg
+401.09 419.00 Td
+(174.3 \(+22.5\)) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 50.00 515.00 52.00 re
+B
+BT
+/F2 7.5 Tf
+0.043 0.122 0.255 rg
+50.00 88.00 Td
+(KEY OBSERVATION FROM RANKINGS) Tj
+ET
+BT
+/F1 7.2 Tf
+0.059 0.090 0.165 rg
+50.00 77.00 Td
+(* Suryakumar Yadav \(#1 Batter\) achieves an unprecedented 211.8 HP SR \(+58.4 over base\) with 63.2% match win contribution.) Tj
+ET
+BT
+/F1 7.2 Tf
+0.059 0.090 0.165 rg
+50.00 66.00 Td
+(* Kuldeep Yadav \(#1 Bowler\) actually reduces his economy rate by 1.40 rpo in high-pressure death/chase crisis while claiming 46 wickets.) Tj
+ET
+BT
+/F1 7.2 Tf
+0.059 0.090 0.165 rg
+50.00 55.00 Td
+(* Rinku Singh \(#3 Batter\) and Matheesha Pathirana \(#2 Bowler\) represent the highest cumulative clutch volume in modern IPL history.) Tj
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89]
+   /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >>
+   /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 14825 >>
+stream
+0.902 0.000 0.494 rg
+40.00 812.00 515.00 3.50 re
+f
+BT
+/F2 8 Tf
+0.902 0.000 0.494 rg
+40.00 798.00 Td
+(RAJASTHAN ROYALS  |  SUPERR SELECTOR SEASON 2) Tj
+ET
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+442.68 798.00 Td
+(ROUND 1 METHODOLOGY REPORT) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 792.00 m
+555.00 792.00 l
+S
+0.75 w
+0.886 0.910 0.941 RG
+40.00 35.00 m
+555.00 35.00 l
+S
+BT
+/F1 7 Tf
+0.392 0.455 0.545 rg
+40.00 24.00 Td
+(Rajasthan Royals SupeRR Selector Season 2 - Clutch Performance Analytics) Tj
+ET
+BT
+/F2 7.5 Tf
+0.043 0.122 0.255 rg
+510.45 24.00 Td
+(Page 2 of 4) Tj
+ET
+BT
+/F2 11 Tf
+0.043 0.122 0.255 rg
+40.00 770.00 Td
+(SECTION 1: PRESSURE DEFINITION & MATHEMATICAL MODELING) Tj
+ET
+1.50 w
+0.902 0.000 0.494 RG
+40.00 764.00 m
+555.00 764.00 l
+S
+BT
+/F1 7.8 Tf
+0.059 0.090 0.165 rg
+40.00 752.00 Td
+(Pressure in cricket is inherently multi-dimensional. Rather than treating pressure as a coarse binary filter, our system models) Tj
+ET
+BT
+/F1 7.8 Tf
+0.059 0.090 0.165 rg
+40.00 741.00 Td
+(a continuous delivery-level Pressure Score P in [0, 1] that captures dynamic game state, resource scarcity, and tournament consequence.) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 630.00 250.00 100.00 re
+B
+0.902 0.000 0.494 rg
+40.00 630.00 4.00 100.00 re
+f
+BT
+/F2 8 Tf
+0.902 0.000 0.494 rg
+50.00 716.00 Td
+(INNINGS 2: CHASE PRESSURE DYNAMICS) Tj
+ET
+BT
+/F1 7.2 Tf
+0.059 0.090 0.165 rg
+50.00 703.00 Td
+(Target information is deterministic. Pressure formula:) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+50.00 680.00 230.00 18.00 re
+B
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+55.00 686.00 Td
+(P_chase = 0.45*RRR_f + 0.30*\(RRR_f*End_f\) + 0.25*Wkt_f) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+50.00 668.00 Td
+(* RRR_f = min\(1.0, max\(0.0, \(RRR - 6.0\) / 10.0\)\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+50.00 657.00 Td
+(* End_f = \(120 - Balls_Remaining\) / 120 \(time urgency\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+50.00 646.00 Td
+(* Wkt_f = \(10 - Wickets_in_Hand\) / 9 \(tail exposure\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+50.00 635.00 Td
+(* Garbage time guard: P drops if RRR > 36 in final over) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+305.00 630.00 250.00 100.00 re
+B
+0.043 0.122 0.255 rg
+305.00 630.00 4.00 100.00 re
+f
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+315.00 716.00 Td
+(INNINGS 1: TARGET-SETTING CRISIS) Tj
+ET
+BT
+/F1 7.2 Tf
+0.059 0.090 0.165 rg
+315.00 703.00 Td
+(Batting first presents two acute pressure states:) Tj
+ET
+BT
+/F2 7.2 Tf
+0.059 0.090 0.165 rg
+315.00 688.00 Td
+(1. Early Collapse Recovery:) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+315.00 678.00 Td
+(   If Wkts >= 3 in overs 1-6 or Wkts >= 4 before over 10:) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+315.00 668.00 Td
+(   P = 0.65 + 0.05 * min\(5, Wickets_Fallen - 2\)) Tj
+ET
+BT
+/F2 7.2 Tf
+0.059 0.090 0.165 rg
+315.00 655.00 Td
+(2. Death Overs Execution \(Overs 16-20\):) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+315.00 645.00 Td
+(   P = 0.60 + 0.10 * \(Over - 16\) / 4.0) Tj
+ET
+BT
+/F1 6.8 Tf
+0.902 0.000 0.494 rg
+315.00 634.00 Td
+(* Super Overs \(Inn 3 & 4\): P = 1.0 | Knockouts: * 1.15x) Tj
+ET
+BT
+/F2 8.5 Tf
+0.043 0.122 0.255 rg
+40.00 615.00 Td
+(EMPIRICAL VALIDATION: HIGH PRESSURE \(P >= 0.60\) VS BASELINE \(P < 0.60\)) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 610.00 m
+555.00 610.00 l
+S
+0.043 0.122 0.255 rg
+40.00 583.00 515.00 12.00 re
+f
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+45.00 586.00 Td
+(Match Metric) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+70.38 586.00 Td
+(Low / Normal Pressure \(74.5%\)) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+227.94 586.00 Td
+(High Pressure Slice \(25.5%\)) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+397.08 586.00 Td
+(Observed Delta) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+492.08 586.00 Td
+(Cricket Impact) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 571.50 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 574.50 Td
+(Total Deliveries Analyzed) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+156.68 574.50 Td
+(149,788) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+307.97 574.50 Td
+(51,211) Tj
+ET
+BT
+/F2 6.8 Tf
+0.863 0.149 0.149 rg
+405.94 574.50 Td
+(25.5% sample) Tj
+ET
+BT
+/F1 6.5 Tf
+0.392 0.455 0.545 rg
+487.67 574.50 Td
+(Statistically deep) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 560.00 515.00 11.50 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 563.00 Td
+(Batting Strike Rate) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+160.01 563.00 Td
+(132.21) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+307.97 563.00 Td
+(139.66) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+420.62 563.00 Td
+(+7.45 SR) Tj
+ET
+BT
+/F1 6.5 Tf
+0.392 0.455 0.545 rg
+484.49 563.00 Td
+(Urgent acceleration) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 548.50 515.00 11.50 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 551.50 Td
+(Batting Average \(Runs/Out\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+163.34 551.50 Td
+(27.90) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+311.64 551.50 Td
+(18.91) Tj
+ET
+BT
+/F2 6.8 Tf
+0.863 0.149 0.149 rg
+398.59 551.50 Td
+(-8.99 \(-32.2%\)) Tj
+ET
+BT
+/F1 6.5 Tf
+0.392 0.455 0.545 rg
+478.12 551.50 Td
+(High risk of collapse) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 537.00 515.00 11.50 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 540.00 Td
+(Bowling Strike Rate \(Balls/Wkt\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+163.34 540.00 Td
+(21.04) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+311.64 540.00 Td
+(14.19) Tj
+ET
+BT
+/F2 6.8 Tf
+0.863 0.149 0.149 rg
+409.61 540.00 Td
+(-6.85 balls) Tj
+ET
+BT
+/F1 6.5 Tf
+0.392 0.455 0.545 rg
+471.75 540.00 Td
+(Wickets fall 48% faster) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 525.50 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 528.50 Td
+(Economy Rate \(Runs/Over\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+153.34 528.50 Td
+(8.48 rpo) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+300.62 528.50 Td
+(9.17 rpo) Tj
+ET
+BT
+/F2 6.8 Tf
+0.863 0.149 0.149 rg
+416.95 528.50 Td
+(+0.69 rpo) Tj
+ET
+BT
+/F1 6.5 Tf
+0.392 0.455 0.545 rg
+478.12 528.50 Td
+(Severe defensive test) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 514.00 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 517.00 Td
+(Boundary Percentage \(4s+6s\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+160.01 517.00 Td
+(17.91%) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+307.97 517.00 Td
+(18.09%) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+427.97 517.00 Td
+(+0.18%) Tj
+ET
+BT
+/F1 6.5 Tf
+0.392 0.455 0.545 rg
+497.23 517.00 Td
+(Boundary demand) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 502.50 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 505.50 Td
+(Dot Ball Percentage) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+160.01 505.50 Td
+(34.68%) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+307.97 505.50 Td
+(31.41%) Tj
+ET
+BT
+/F2 6.8 Tf
+0.863 0.149 0.149 rg
+427.97 505.50 Td
+(-3.27%) Tj
+ET
+BT
+/F1 6.5 Tf
+0.392 0.455 0.545 rg
+481.30 505.50 Td
+(Every ball contested) Tj
+ET
+BT
+/F2 11 Tf
+0.043 0.122 0.255 rg
+40.00 480.00 Td
+(SECTION 2: CONTEXT-EXPECTED BENCHMARKS \(SOLVING IPL VS T20I FAIR COMPARISONS\)) Tj
+ET
+1.50 w
+0.902 0.000 0.494 RG
+40.00 474.00 m
+555.00 474.00 l
+S
+BT
+/F1 7.8 Tf
+0.059 0.090 0.165 rg
+40.00 462.00 Td
+(Comparing raw strike rates or economy rates across leagues is fundamentally flawed: IPL matches feature higher scoring tracks,) Tj
+ET
+BT
+/F1 7.8 Tf
+0.059 0.090 0.165 rg
+40.00 452.00 Td
+(smaller boundaries, and deeper batting lineups \(IPL avg: 8.81 rpo, 140.95 SR\) compared to international T20Is \(8.06 rpo, 129.34 SR\).) Tj
+ET
+BT
+/F1 7.8 Tf
+0.059 0.090 0.165 rg
+40.00 442.00 Td
+(Our system establishes an 18-cell expected outcomes matrix \(Competition Group x Phase x Pressure State\) to benchmark every ball:) Tj
+ET
+0.043 0.122 0.255 rg
+40.00 413.00 515.00 12.00 re
+f
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+45.00 416.00 Td
+(Comp Group) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+145.00 416.00 Td
+(Phase) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+215.00 416.00 Td
+(Pressure State) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+252.20 416.00 Td
+(Deliveries) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+317.20 416.00 Td
+(Exp Bat SR) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+378.42 416.00 Td
+(Exp Economy) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+447.20 416.00 Td
+(Exp Dism %) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+497.08 416.00 Td
+(Exp Bowl Wkt %) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.996 0.945 0.965 rg
+40.00 401.50 515.00 11.50 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 404.50 Td
+(IPL \(Indian Premier League\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 404.50 Td
+(Death \(16-20\)) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+215.00 404.50 Td
+(High Pressure \(1\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+270.01 404.50 Td
+(15,759) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+336.64 404.50 Td
+(158.1) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+390.62 404.50 Td
+(9.45 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 404.50 Td
+(8.05%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 404.50 Td
+(7.13%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 390.00 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 393.00 Td
+(IPL) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 393.00 Td
+(Death \(16-20\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+215.00 393.00 Td
+(Normal \(0\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+273.34 393.00 Td
+(4,283) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+336.64 393.00 Td
+(156.2) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+390.62 393.00 Td
+(9.34 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 393.00 Td
+(6.58%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 393.00 Td
+(6.21%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 378.50 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 381.50 Td
+(IPL) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 381.50 Td
+(Middle \(7-15\)) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+215.00 381.50 Td
+(High Pressure \(1\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+273.34 381.50 Td
+(5,273) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+338.34 381.50 Td
+(119.4) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+393.34 381.50 Td
+(7.14 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 381.50 Td
+(4.97%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 381.50 Td
+(4.82%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 367.00 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 370.00 Td
+(IPL) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 370.00 Td
+(Powerplay \(1-6\)) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+215.00 370.00 Td
+(High Pressure \(1\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+280.00 370.00 Td
+(693) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+338.34 370.00 Td
+(103.6) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+393.34 370.00 Td
+(6.21 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 370.00 Td
+(4.04%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 370.00 Td
+(3.75%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 355.50 515.00 11.50 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 358.50 Td
+(T20I \(International\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 358.50 Td
+(Death \(16-20\)) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+215.00 358.50 Td
+(High Pressure \(1\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+270.01 358.50 Td
+(18,282) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+336.64 358.50 Td
+(146.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+390.62 358.50 Td
+(8.73 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 358.50 Td
+(8.78%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 358.50 Td
+(7.88%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 344.00 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 347.00 Td
+(T20I) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 347.00 Td
+(Death \(16-20\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+215.00 347.00 Td
+(Normal \(0\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+273.34 347.00 Td
+(4,603) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+336.64 347.00 Td
+(139.8) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+390.62 347.00 Td
+(8.35 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 347.00 Td
+(7.21%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 347.00 Td
+(6.78%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 332.50 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 335.50 Td
+(T20I) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 335.50 Td
+(Middle \(7-15\)) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+215.00 335.50 Td
+(High Pressure \(1\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+273.34 335.50 Td
+(8,173) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+338.34 335.50 Td
+(112.5) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+393.34 335.50 Td
+(6.73 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 335.50 Td
+(5.35%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 335.50 Td
+(5.07%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 321.00 515.00 11.50 re
+B
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 324.00 Td
+(T20I) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 324.00 Td
+(Powerplay \(1-6\)) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+215.00 324.00 Td
+(High Pressure \(1\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+273.34 324.00 Td
+(1,165) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+338.34 324.00 Td
+(108.5) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+393.34 324.00 Td
+(6.50 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 324.00 Td
+(3.43%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 324.00 Td
+(3.35%) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 309.50 515.00 11.50 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 312.50 Td
+(Other T20 \(Asia Cup / Assoc\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+145.00 312.50 Td
+(Death \(16-20\)) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+215.00 312.50 Td
+(High Pressure \(1\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+273.34 312.50 Td
+(1,183) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+336.64 312.50 Td
+(144.9) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+390.62 312.50 Td
+(8.69 rpo) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+468.34 312.50 Td
+(8.88%) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+533.34 312.50 Td
+(7.69%) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 60.00 515.00 60.00 re
+B
+0.043 0.122 0.255 rg
+40.00 60.00 4.00 60.00 re
+f
+BT
+/F2 7.5 Tf
+0.043 0.122 0.255 rg
+50.00 108.00 Td
+(DERIVATION OF VALUE ADDED / VALUE SAVED METRICS) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+50.00 96.00 Td
+(* Batting Runs Above Expected \(RAAE\) = Sum\(Runs_Scored - Exp_Runs_Context\)) Tj
+ET
+BT
+/F2 7 Tf
+0.902 0.000 0.494 rg
+50.00 85.00 Td
+(* Batting Total Value Added \(TVA\) = RAAE + 12.0 * Sum\(Exp_Dismissal_Prob - Actual_Dismissal\)) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+50.00 74.00 Td
+(* Bowling Runs Saved \(BRBE\) = Sum\(Exp_Bowler_Runs - Actual_Bowler_Runs\)) Tj
+ET
+BT
+/F2 7 Tf
+0.043 0.122 0.255 rg
+50.00 63.00 Td
+(* Bowling Total Value Saved \(TVS\) = BRBE + 12.0 * Sum\(Actual_Bowler_Wicket - Exp_Bowler_Wkt_Prob\)) Tj
+ET
+
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89]
+   /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >>
+   /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 22754 >>
+stream
+0.902 0.000 0.494 rg
+40.00 812.00 515.00 3.50 re
+f
+BT
+/F2 8 Tf
+0.902 0.000 0.494 rg
+40.00 798.00 Td
+(RAJASTHAN ROYALS  |  SUPERR SELECTOR SEASON 2) Tj
+ET
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+442.68 798.00 Td
+(ROUND 1 METHODOLOGY REPORT) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 792.00 m
+555.00 792.00 l
+S
+0.75 w
+0.886 0.910 0.941 RG
+40.00 35.00 m
+555.00 35.00 l
+S
+BT
+/F1 7 Tf
+0.392 0.455 0.545 rg
+40.00 24.00 Td
+(Rajasthan Royals SupeRR Selector Season 2 - Clutch Performance Analytics) Tj
+ET
+BT
+/F2 7.5 Tf
+0.043 0.122 0.255 rg
+510.45 24.00 Td
+(Page 3 of 4) Tj
+ET
+BT
+/F2 11 Tf
+0.043 0.122 0.255 rg
+40.00 770.00 Td
+(SECTION 3: RATING LOGIC & DEEP-DIVE PLAYER EVIDENCE) Tj
+ET
+1.50 w
+0.902 0.000 0.494 RG
+40.00 764.00 m
+555.00 764.00 l
+S
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 692.00 515.00 66.00 re
+B
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+50.00 746.00 Td
+(COMPOSITE RATING ARCHITECTURE: BPI \(BATTING\) & BWPI \(BOWLING\)) Tj
+ET
+BT
+/F1 7.2 Tf
+0.392 0.455 0.545 rg
+50.00 735.00 Td
+(Both models combine standardized z-scores across 6 distinct dimensions, scaled by Empirical Bayes credibility:) Tj
+ET
+BT
+/F2 6.6 Tf
+0.902 0.000 0.494 rg
+50.00 722.00 Td
+(BPI Weights: 28% Total Value Added \(TVA\) | 25% TVA/100 Balls | 20% Diff SR vs Base | 15% Match Win Contribution Rate \(WCR\) | 7% Avg Match Impact | 5% Big Game %) Tj
+ET
+BT
+/F2 6.6 Tf
+0.043 0.122 0.255 rg
+50.00 711.00 Td
+(BWPI Weights: 28% Total Value Saved \(TVS\) | 25% TVS/100 Balls | 20% Diff Econ vs Base | 15% Match Win Contribution Rate \(WCR\) | 7% Avg Match Impact | 5% Big Game %) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 698.00 Td
+(Sample Credibility Weight: Cred = HP_Balls / \(HP_Balls + 50.0\). Minimum filters: >= 100 HP Balls, >= 100 Base Balls, >= 10 HP Matches.) Tj
+ET
+BT
+/F2 8.5 Tf
+0.902 0.000 0.494 rg
+40.00 676.00 Td
+(EVIDENCE TABLE: COMPREHENSIVE METRICS FOR TOP 10 BATTERS UNDER PRESSURE) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 671.00 m
+555.00 671.00 l
+S
+0.902 0.000 0.494 rg
+40.00 645.00 515.00 12.00 re
+f
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+45.00 648.00 Td
+(Rk) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+62.00 648.00 Td
+(Player Name) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+125.54 648.00 Td
+(Matches) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+167.76 648.00 Td
+(HP Balls) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+225.10 648.00 Td
+(HP SR) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+263.54 648.00 Td
+(Base SR) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+309.54 648.00 Td
+(Diff SR) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+359.32 648.00 Td
+(HP Avg) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+400.20 648.00 Td
+(TVA \(Runs\)) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+475.10 648.00 Td
+(WCR %) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+515.98 648.00 Td
+(BPI Score) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 633.20 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+45.00 636.20 Td
+(1) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+62.00 636.20 Td
+(Suryakumar Yadav) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+142.00 636.20 Td
+(139) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 636.20 Td
+(382) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 636.20 Td
+(211.8) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 636.20 Td
+(153.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 636.20 Td
+(+58.4) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 636.20 Td
+(33.7) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 636.20 Td
+(+320) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 636.20 Td
+(63.2%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+530.56 636.20 Td
+(100.0) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 621.40 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+45.00 624.40 Td
+(2) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+62.00 624.40 Td
+(Tristan Stubbs) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 624.40 Td
+(69) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 624.40 Td
+(536) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 624.40 Td
+(174.2) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 624.40 Td
+(119.0) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 624.40 Td
+(+55.2) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 624.40 Td
+(37.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 624.40 Td
+(+334) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 624.40 Td
+(60.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 624.40 Td
+(97.5) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 609.60 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+45.00 612.60 Td
+(3) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+62.00 612.60 Td
+(Rinku Singh) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 612.60 Td
+(83) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 612.60 Td
+(738) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 612.60 Td
+(162.9) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 612.60 Td
+(124.0) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 612.60 Td
+(+38.9) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 612.60 Td
+(36.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 612.60 Td
+(+397) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 612.60 Td
+(60.3%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 612.60 Td
+(95.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 597.80 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 600.80 Td
+(4) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 600.80 Td
+(Namboori Tilak Varma) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+142.00 600.80 Td
+(127) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 600.80 Td
+(684) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 600.80 Td
+(162.7) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 600.80 Td
+(127.5) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 600.80 Td
+(+35.2) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 600.80 Td
+(34.8) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 600.80 Td
+(+369) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 600.80 Td
+(63.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 600.80 Td
+(93.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 586.00 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 589.00 Td
+(5) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 589.00 Td
+(Rishabh Pant) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 589.00 Td
+(73) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 589.00 Td
+(305) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 589.00 Td
+(181.0) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 589.00 Td
+(123.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 589.00 Td
+(+57.5) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 589.00 Td
+(39.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 589.00 Td
+(+212) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 589.00 Td
+(63.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 589.00 Td
+(91.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 574.20 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 577.20 Td
+(6) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 577.20 Td
+(Tim David) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 577.20 Td
+(98) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 577.20 Td
+(660) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 577.20 Td
+(173.8) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 577.20 Td
+(162.9) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 577.20 Td
+(+10.9) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 577.20 Td
+(35.8) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 577.20 Td
+(+394) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 577.20 Td
+(61.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 577.20 Td
+(89.4) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 562.40 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 565.40 Td
+(7) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 565.40 Td
+(Heinrich Klaasen) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 565.40 Td
+(72) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 565.40 Td
+(517) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 565.40 Td
+(174.3) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 565.40 Td
+(151.8) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 565.40 Td
+(+22.5) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 565.40 Td
+(33.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 565.40 Td
+(+270) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 565.40 Td
+(70.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 565.40 Td
+(84.9) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 550.60 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 553.60 Td
+(8) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 553.60 Td
+(Naman Dhir) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 553.60 Td
+(46) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 553.60 Td
+(221) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 553.60 Td
+(197.3) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 553.60 Td
+(145.6) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 553.60 Td
+(+51.7) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 553.60 Td
+(36.3) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 553.60 Td
+(+166) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 553.60 Td
+(63.6%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 553.60 Td
+(84.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 538.80 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 541.80 Td
+(9) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 541.80 Td
+(Rovman Powell) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+142.00 541.80 Td
+(100) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 541.80 Td
+(675) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 541.80 Td
+(159.6) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 541.80 Td
+(124.1) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 541.80 Td
+(+35.5) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 541.80 Td
+(29.9) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 541.80 Td
+(+312) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 541.80 Td
+(52.8%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 541.80 Td
+(84.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 527.00 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 530.00 Td
+(10) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 530.00 Td
+(David Miller) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 530.00 Td
+(81) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 530.00 Td
+(532) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+225.64 530.00 Td
+(167.7) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+273.34 530.00 Td
+(126.4) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 530.00 Td
+(+41.2) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+368.67 530.00 Td
+(29.7) Tj
+ET
+BT
+/F2 6.8 Tf
+0.902 0.000 0.494 rg
+423.31 530.00 Td
+(+233) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 530.00 Td
+(61.8%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+534.45 530.00 Td
+(80.9) Tj
+ET
+BT
+/F2 8.5 Tf
+0.043 0.122 0.255 rg
+40.00 506.00 Td
+(EVIDENCE TABLE: COMPREHENSIVE METRICS FOR TOP 10 BOWLERS UNDER PRESSURE) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 501.00 m
+555.00 501.00 l
+S
+0.043 0.122 0.255 rg
+40.00 475.00 515.00 12.00 re
+f
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+45.00 478.00 Td
+(Rk) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+62.00 478.00 Td
+(Player Name) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+125.54 478.00 Td
+(Matches) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+167.76 478.00 Td
+(HP Balls) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+217.54 478.00 Td
+(HP Econ) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+255.98 478.00 Td
+(Base Econ) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+301.98 478.00 Td
+(Diff Econ) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+355.54 478.00 Td
+(HP Wkts) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+400.20 478.00 Td
+(TVS \(Runs\)) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+475.10 478.00 Td
+(WCR %) Tj
+ET
+BT
+/F2 7 Tf
+1.000 1.000 1.000 rg
+512.20 478.00 Td
+(BWPI Score) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 463.20 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+45.00 466.20 Td
+(1) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+62.00 466.20 Td
+(Kuldeep Yadav) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 466.20 Td
+(89) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 466.20 Td
+(470) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 466.20 Td
+(6.79) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 466.20 Td
+(8.19) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 466.20 Td
+(+1.40) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 466.20 Td
+(46) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+423.31 466.20 Td
+(+326) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 466.20 Td
+(61.2%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+530.56 466.20 Td
+(100.0) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 451.40 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+45.00 454.40 Td
+(2) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+62.00 454.40 Td
+(Matheesha Pathirana) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 454.40 Td
+(54) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 454.40 Td
+(551) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 454.40 Td
+(7.75) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 454.40 Td
+(7.81) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 454.40 Td
+(+0.06) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 454.40 Td
+(49) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+423.31 454.40 Td
+(+273) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 454.40 Td
+(68.4%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 454.40 Td
+(91.0) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 439.60 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+45.00 442.60 Td
+(3) Tj
+ET
+BT
+/F2 7 Tf
+0.059 0.090 0.165 rg
+62.00 442.60 Td
+(Sunil Narine) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 442.60 Td
+(67) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 442.60 Td
+(373) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 442.60 Td
+(5.71) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 442.60 Td
+(7.10) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 442.60 Td
+(+1.39) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 442.60 Td
+(25) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+423.31 442.60 Td
+(+195) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 442.60 Td
+(65.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 442.60 Td
+(84.6) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 427.80 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 430.80 Td
+(4) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 430.80 Td
+(Noor Ahmad) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 430.80 Td
+(70) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 430.80 Td
+(317) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 430.80 Td
+(7.02) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 430.80 Td
+(7.77) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 430.80 Td
+(+0.75) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 430.80 Td
+(31) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+423.31 430.80 Td
+(+209) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 430.80 Td
+(58.8%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 430.80 Td
+(83.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 416.00 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 419.00 Td
+(5) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 419.00 Td
+(Abrar Ahmed) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 419.00 Td
+(35) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 419.00 Td
+(234) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 419.00 Td
+(5.41) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 419.00 Td
+(7.08) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 419.00 Td
+(+1.67) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 419.00 Td
+(17) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+423.31 419.00 Td
+(+115) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 419.00 Td
+(70.8%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 419.00 Td
+(78.7) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 404.20 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 407.20 Td
+(6) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 407.20 Td
+(Wanindu Hasaranga) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 407.20 Td
+(91) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 407.20 Td
+(407) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 407.20 Td
+(7.77) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 407.20 Td
+(7.89) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 407.20 Td
+(+0.12) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 407.20 Td
+(41) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+423.31 407.20 Td
+(+201) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 407.20 Td
+(60.9%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 407.20 Td
+(77.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 392.40 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 395.40 Td
+(7) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 395.40 Td
+(Jamie Overton) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 395.40 Td
+(30) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 395.40 Td
+(223) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 395.40 Td
+(7.86) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 395.40 Td
+(8.57) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 395.40 Td
+(+0.71) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 395.40 Td
+(21) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+426.98 395.40 Td
+(+97) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 395.40 Td
+(70.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 395.40 Td
+(72.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 380.60 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 383.60 Td
+(8) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 383.60 Td
+(Shadab Khan) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 383.60 Td
+(42) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 383.60 Td
+(161) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 383.60 Td
+(5.63) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 383.60 Td
+(8.26) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 383.60 Td
+(+2.63) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 383.60 Td
+(13) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+426.98 383.60 Td
+(+90) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 383.60 Td
+(50.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 383.60 Td
+(72.7) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 368.80 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 371.80 Td
+(9) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 371.80 Td
+(Shaheen Afridi) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 371.80 Td
+(47) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 371.80 Td
+(253) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 371.80 Td
+(7.19) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 371.80 Td
+(7.78) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+317.64 371.80 Td
+(+0.59) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 371.80 Td
+(24) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+423.31 371.80 Td
+(+123) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 371.80 Td
+(60.0%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 371.80 Td
+(72.2) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 357.00 515.00 11.80 re
+B
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+45.00 360.00 Td
+(10) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+62.00 360.00 Td
+(Sufiyan Muqeem) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+145.34 360.00 Td
+(25) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+188.00 360.00 Td
+(146) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+229.31 360.00 Td
+(5.92) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+276.67 360.00 Td
+(5.92) Tj
+ET
+BT
+/F2 6.8 Tf
+0.863 0.149 0.149 rg
+317.64 360.00 Td
+(+0.00) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+375.34 360.00 Td
+(14) Tj
+ET
+BT
+/F2 6.8 Tf
+0.043 0.122 0.255 rg
+426.98 360.00 Td
+(+97) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+477.34 360.00 Td
+(61.5%) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+534.45 360.00 Td
+(71.1) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 55.00 515.00 295.00 re
+B
+BT
+/F2 8.5 Tf
+0.043 0.122 0.255 rg
+50.00 336.00 Td
+(TACTICAL PROFILES & EVIDENCE ANALYSIS) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+50.00 322.00 Td
+(Suryakumar Yadav \(#1 Batter, BPI: 100.0\):) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 312.00 Td
+(Generational clutch outlier. Strikes at an astonishing 211.8 SR under high pressure \(+58.4 elevation\). Across 38 high-pr) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 303.00 Td
+(essure matches, his 360-degree wagon wheel completely dismantles death field placements, generating +320 Total Value Added.) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+50.00 289.00 Td
+(Tristan Stubbs \(#2 Batter, BPI: 97.5\):) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 279.00 Td
+(Massive situational lift \(+55.2 SR delta\). Transforms from an anchor \(119.0 base SR\) into a destructive 174.2 SR finishe) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 270.00 Td
+(r while maintaining an elite 37.4 HP average and +334 TVA across 69 matches.) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+50.00 256.00 Td
+(Rinku Singh \(#3 Batter, BPI: 95.2\):) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 246.00 Td
+(The definitive clutch finisher in cricket. Faced the most HP deliveries \(738 balls\) of any top-5 player, producing a wor) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 237.00 Td
+(ld-record +397 Total Value Added and 60.3% win contribution rate.) Tj
+ET
+BT
+/F2 7.2 Tf
+0.902 0.000 0.494 rg
+50.00 223.00 Td
+(N. Tilak Varma \(#4 Batter, BPI: 93.2\):) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 213.00 Td
+(Dual-threat crisis solver. Uniquely adept at recovering from top-order collapses in overs 1-6 \(105+ SR\) and detonating i) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 204.00 Td
+(n the death overs \(162.7 HP SR, +369 TVA across 127 matches\).) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+50.00 190.00 Td
+(Kuldeep Yadav \(#1 Bowler, BWPI: 100.0\):) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 180.00 Td
+(The most lethal pressure bowler in world cricket. While normal bowlers leak 9.17 rpo under pressure, Kuldeep's economy d) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 171.00 Td
+(rops from 8.19 to 6.79 rpo \(+1.40 improvement!\) while taking 46 wickets \(+326 TVS\).) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+50.00 157.00 Td
+(Matheesha Pathirana \(#2 Bowler, BWPI: 91.0\):) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 147.00 Td
+(Unrivaled death-over pace weapon. Took 49 high-pressure wickets with an extraordinary 68.4% match win contribution rate.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 138.00 Td
+( His slinging release point makes boundary hitting nearly impossible when RRR is steep.) Tj
+ET
+BT
+/F2 7.2 Tf
+0.043 0.122 0.255 rg
+50.00 124.00 Td
+(Sunil Narine \(#3 Bowler, BWPI: 84.6\):) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 114.00 Td
+(Unbelievable defensive control. Maintains an economy of 5.71 rpo under extreme pressure \(+1.39 improvement over baseline) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 105.00 Td
+(\) across 67 matches, strangling batting momentum.) Tj
+ET
+
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89]
+   /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >>
+   /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 11304 >>
+stream
+0.902 0.000 0.494 rg
+40.00 812.00 515.00 3.50 re
+f
+BT
+/F2 8 Tf
+0.902 0.000 0.494 rg
+40.00 798.00 Td
+(RAJASTHAN ROYALS  |  SUPERR SELECTOR SEASON 2) Tj
+ET
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+442.68 798.00 Td
+(ROUND 1 METHODOLOGY REPORT) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 792.00 m
+555.00 792.00 l
+S
+0.75 w
+0.886 0.910 0.941 RG
+40.00 35.00 m
+555.00 35.00 l
+S
+BT
+/F1 7 Tf
+0.392 0.455 0.545 rg
+40.00 24.00 Td
+(Rajasthan Royals SupeRR Selector Season 2 - Clutch Performance Analytics) Tj
+ET
+BT
+/F2 7.5 Tf
+0.043 0.122 0.255 rg
+510.45 24.00 Td
+(Page 4 of 4) Tj
+ET
+BT
+/F2 11 Tf
+0.043 0.122 0.255 rg
+40.00 770.00 Td
+(SECTION 4: CONSISTENCY, LIMITATIONS & RR STRATEGIC BLUEPRINT) Tj
+ET
+1.50 w
+0.902 0.000 0.494 RG
+40.00 764.00 m
+555.00 764.00 l
+S
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 650.00 515.00 102.00 re
+B
+0.902 0.000 0.494 rg
+40.00 650.00 4.00 102.00 re
+f
+BT
+/F2 8.5 Tf
+0.902 0.000 0.494 rg
+50.00 738.00 Td
+(MATCH-TO-MATCH CONSISTENCY & MODEL RELIABILITY) Tj
+ET
+BT
+/F1 7.2 Tf
+0.059 0.090 0.165 rg
+50.00 725.00 Td
+(To ensure rankings were not distorted by single-match anomalies, we evaluated each player's game-level Net Match Impact \(NMI\):) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+50.00 712.00 Td
+(* Win Contribution Rate \(WCR\): Measures the % of high-pressure matches where a player delivered positive net value \(NMI > 0\).) Tj
+ET
+BT
+/F1 7 Tf
+0.392 0.455 0.545 rg
+50.00 702.00 Td
+(  Top-10 batters average a 62.4% WCR \(vs 46.1% league average\), proving consistent match-winning reliability across multi-year campaigns.) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+50.00 690.00 Td
+(* Big Game Performance Rate: Batters achieving NMI >= 10 runs \(Stubbs: 45%, Rinku: 42%\) and Bowlers achieving NMI >= 8 runs) Tj
+ET
+BT
+/F1 7 Tf
+0.392 0.455 0.545 rg
+50.00 680.00 Td
+(  saved \(Abrar: 50%, Pathirana: 44%\) dominate the top tier.) Tj
+ET
+BT
+/F1 7 Tf
+0.059 0.090 0.165 rg
+50.00 668.00 Td
+(* Sample Regularization: Empirical Bayes shrinkage \(Cred = N / \(N + 50\)\) penalizes low-sample flukes while rewarding durability.) Tj
+ET
+0.75 w
+0.965 0.753 0.835 RG
+0.996 0.945 0.965 rg
+40.00 535.00 515.00 105.00 re
+B
+0.902 0.000 0.494 rg
+40.00 535.00 4.00 105.00 re
+f
+BT
+/F2 8.5 Tf
+0.902 0.000 0.494 rg
+50.00 626.00 Td
+(CRITICAL METHODOLOGICAL LIMITATIONS & MODEL UNCERTAINTIES) Tj
+ET
+BT
+/F2 7 Tf
+0.043 0.122 0.255 rg
+50.00 614.00 Td
+(1. The Baseline Ceiling Effect \(e.g., Jasprit Bumrah\): Bumrah's baseline economy is 6.73 rpo \(the gold standard in T20 cricket\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 604.00 Td
+(   When bowling death-overs under pressure, his economy is 7.08 rpo. In raw delta terms \(6.73 - 7.08 = -0.35\), this registers as a) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 594.00 Td
+(   slight 'drop', masking the reality that conceding only 7.08 in death overs saves +187.1 runs against league expectation \(9.45 rpo\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 584.00 Td
+(   Our composite model specifically balances delta with Total Value Saved \(TVS\) to ensure Bumrah still ranks elite \(+188 TVS\).) Tj
+ET
+BT
+/F2 7 Tf
+0.043 0.122 0.255 rg
+50.00 572.00 Td
+(2. Batting Order Exposure Disparity: Top-order openers face only 15-20% of their balls under HP, while finishers face 50-75%.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 562.00 Td
+(   Our sample size eligibility \(min 100 HP balls\) prevents low-sample top-order cameos from crowding out proven finishers.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.392 0.455 0.545 rg
+50.00 550.00 Td
+(3. Format Transition: Differences between multi-pitch IPL seasons and bilateral series are smoothed via context cells.) Tj
+ET
+BT
+/F2 9.5 Tf
+0.043 0.122 0.255 rg
+40.00 518.00 Td
+(STRATEGIC BLUEPRINT FOR RAJASTHAN ROYALS SQUAD ARCHITECTURE) Tj
+ET
+1.50 w
+0.902 0.000 0.494 RG
+40.00 512.00 m
+555.00 512.00 l
+S
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 395.00 250.00 110.00 re
+B
+0.902 0.000 0.494 rg
+40.00 395.00 3.50 110.00 re
+f
+BT
+/F2 8 Tf
+0.902 0.000 0.494 rg
+50.00 492.00 Td
+(FINISHING & DEATH ACCELERATION) Tj
+ET
+BT
+/F2 7.2 Tf
+0.059 0.090 0.165 rg
+50.00 480.00 Td
+(Auction & Tactical Targets:) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 468.00 Td
+(* Tristan Stubbs & Naman Dhir represent generational) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 458.00 Td
+(  finishing talent with +50+ SR elevation under pressure.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 446.00 Td
+(* Retaining Dhruv Jurel \(#15 Batter, 70% WCR, 171.8 HP SR\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 436.00 Td
+(  provides RR with a homegrown clutch finisher.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 424.00 Td
+(* Pair Shimron Hetmyer with high-SR spin enforcers to) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 414.00 Td
+(  exploit overs 14-18 when RRR exceeds 11.0 rpo.) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+305.00 395.00 250.00 110.00 re
+B
+0.043 0.122 0.255 rg
+305.00 395.00 3.50 110.00 re
+f
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+315.00 492.00 Td
+(MIDDLE-OVERS DEFENSE & WICKETS) Tj
+ET
+BT
+/F2 7.2 Tf
+0.059 0.090 0.165 rg
+315.00 480.00 Td
+(Bowling Blueprint:) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+315.00 468.00 Td
+(* Wrist-spin enforcers \(Kuldeep Yadav / Noor Ahmad\) are) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+315.00 458.00 Td
+(  paramount: finger spin leaks under chase pressure,) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+315.00 446.00 Td
+(  while wrist spinners actively lower economy \(Kuldeep 6.79\).) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+315.00 434.00 Td
+(* Deploy Sandeep Sharma & Matheesha Pathirana style) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+315.00 424.00 Td
+(  yorker specialists exclusively in overs 18 & 20.) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+315.00 412.00 Td
+(* Protect defensive overs in powerplay to force opposition) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+315.00 402.00 Td
+(  into high-risk collapse zones \(P >= 0.70\).) Tj
+ET
+BT
+/F2 8.5 Tf
+0.043 0.122 0.255 rg
+40.00 380.00 Td
+(TOP 5 ALLROUNDERS UNDER PRESSURE \(API RATING\)) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+40.00 375.00 m
+555.00 375.00 l
+S
+0.043 0.122 0.255 rg
+40.00 349.00 515.00 11.00 re
+f
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+45.00 352.00 Td
+(Rk) Tj
+ET
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+62.00 352.00 Td
+(Player Name) Tj
+ET
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+147.88 352.00 Td
+(Bat HP Balls) Tj
+ET
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+240.43 352.00 Td
+(Bat TVA) Tj
+ET
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+294.37 352.00 Td
+(Bowl HP Balls) Tj
+ET
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+386.92 352.00 Td
+(Bowl TVS) Tj
+ET
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+460.43 352.00 Td
+(HP Wkts) Tj
+ET
+BT
+/F2 6.5 Tf
+1.000 1.000 1.000 rg
+518.41 352.00 Td
+(API Score) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 337.80 515.00 11.20 re
+B
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+45.00 340.30 Td
+(1) Tj
+ET
+BT
+/F2 6.8 Tf
+0.059 0.090 0.165 rg
+62.00 340.30 Td
+(Hardik Pandya) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+180.44 340.30 Td
+(750) Tj
+ET
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+250.96 340.30 Td
+(+228) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+330.44 340.30 Td
+(368) Tj
+ET
+BT
+/F2 6.5 Tf
+0.043 0.122 0.255 rg
+404.47 340.30 Td
+(+28) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+478.63 340.30 Td
+(29) Tj
+ET
+BT
+/F2 6.8 Tf
+0.851 0.467 0.024 rg
+531.64 340.30 Td
+(100.0) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 326.60 515.00 11.20 re
+B
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+45.00 329.10 Td
+(2) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+62.00 329.10 Td
+(Kuldeep Yadav) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+180.44 329.10 Td
+(185) Tj
+ET
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+250.96 329.10 Td
+(-128) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+330.44 329.10 Td
+(470) Tj
+ET
+BT
+/F2 6.5 Tf
+0.043 0.122 0.255 rg
+400.96 329.10 Td
+(+326) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+478.63 329.10 Td
+(46) Tj
+ET
+BT
+/F2 6.8 Tf
+0.851 0.467 0.024 rg
+535.31 329.10 Td
+(95.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 315.40 515.00 11.20 re
+B
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+45.00 317.90 Td
+(3) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+62.00 317.90 Td
+(Andre Russell) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+180.44 317.90 Td
+(494) Tj
+ET
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+250.96 317.90 Td
+(+178) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+330.44 317.90 Td
+(284) Tj
+ET
+BT
+/F2 6.5 Tf
+0.043 0.122 0.255 rg
+404.47 317.90 Td
+(+33) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+478.63 317.90 Td
+(28) Tj
+ET
+BT
+/F2 6.8 Tf
+0.851 0.467 0.024 rg
+535.31 317.90 Td
+(94.8) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+0.973 0.980 0.988 rg
+40.00 304.20 515.00 11.20 re
+B
+BT
+/F2 6.5 Tf
+0.059 0.090 0.165 rg
+45.00 306.70 Td
+(4) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+62.00 306.70 Td
+(Shadab Khan) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+180.44 306.70 Td
+(207) Tj
+ET
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+254.47 306.70 Td
+(+53) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+330.44 306.70 Td
+(161) Tj
+ET
+BT
+/F2 6.5 Tf
+0.043 0.122 0.255 rg
+404.47 306.70 Td
+(+90) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+478.63 306.70 Td
+(13) Tj
+ET
+BT
+/F2 6.8 Tf
+0.851 0.467 0.024 rg
+535.31 306.70 Td
+(91.7) Tj
+ET
+0.50 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 293.00 515.00 11.20 re
+B
+BT
+/F2 6.5 Tf
+0.059 0.090 0.165 rg
+45.00 295.50 Td
+(5) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+62.00 295.50 Td
+(Rashid Khan) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+180.44 295.50 Td
+(449) Tj
+ET
+BT
+/F2 6.5 Tf
+0.902 0.000 0.494 rg
+254.47 295.50 Td
+(-32) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+330.44 295.50 Td
+(667) Tj
+ET
+BT
+/F2 6.5 Tf
+0.043 0.122 0.255 rg
+400.96 295.50 Td
+(+196) Tj
+ET
+BT
+/F1 6.5 Tf
+0.059 0.090 0.165 rg
+478.63 295.50 Td
+(53) Tj
+ET
+BT
+/F2 6.8 Tf
+0.851 0.467 0.024 rg
+535.31 295.50 Td
+(88.9) Tj
+ET
+0.75 w
+0.886 0.910 0.941 RG
+1.000 1.000 1.000 rg
+40.00 50.00 515.00 138.00 re
+B
+BT
+/F2 8 Tf
+0.043 0.122 0.255 rg
+50.00 175.00 Td
+(PROJECT DELIVERABLES & ARTIFACTS IN REPOSITORY) Tj
+ET
+BT
+/F2 7 Tf
+0.902 0.000 0.494 rg
+50.00 163.00 Td
+(* Official Methodology Report PDF: reports/SupeRR_Selector_Season_2_Methodology_Report.pdf) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 152.00 Td
+(* Ranked Datasets: Data/processed/batter_pressure_index.csv \(97 ranked batters\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 141.00 Td
+(* Ranked Datasets: Data/processed/bowler_pressure_index.csv \(146 ranked bowlers\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 130.00 Td
+(* Ranked Datasets: Data/processed/allrounder_pressure_index.csv \(97 ranked allrounders\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 119.00 Td
+(* Master Database: cricket_analytics.db \(SQLite database with 200,999 delivery states and context scores\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 108.00 Td
+(* Complete Source Code: run_pipeline.py \(Automated end-to-end execution pipeline\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 97.00 Td
+(* Pipeline Modules: src/data_loader.py, src/pressure_engine.py, src/player_ratings.py) Tj
+ET
+BT
+/F1 6.8 Tf
+0.059 0.090 0.165 rg
+50.00 86.00 Td
+(* Match Consistency Tables: batter_match_hp and bowler_match_hp in database) Tj
+ET
+BT
+/F2 6.8 Tf
+0.086 0.647 0.290 rg
+50.00 75.00 Td
+(* Verification: Rankings are 100% reproducible directly from the raw dataset without external heuristics.) Tj
+ET
+BT
+/F2 7 Tf
+0.043 0.122 0.255 rg
+50.00 62.00 Td
+(Submission verified for Unstop dropdown field mapping \(Rank 1 to Rank 10, no duplicates\).) Tj
+ET
+
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000141 00000 n 
+0000000238 00000 n 
+0000000340 00000 n 
+0000000445 00000 n 
+0000000603 00000 n 
+0000018284 00000 n 
+0000018442 00000 n 
+0000033320 00000 n 
+0000033480 00000 n 
+0000056288 00000 n 
+0000056448 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+67806
+%%EOF
